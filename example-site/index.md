@@ -19,6 +19,10 @@ An overview of ROSE, how to download and use, basic templates and examples, and 
   * [Configure](#installation__configure)
   * [Compile](#installation__compile)
   * [Install](#installation__install)
+* [Examples](#examples)
+* [Documentation](#documentation)
+* [Getting Help](#help)
+* [Frequently Asked Questions (FAQs)](#faq)
 
 ## What is ROSE? <a name="what_is_rose"></a>
 Developed at Lawrence Livermore National Laboratory (LLNL), ROSE is an open source compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C(C89 and C98), C++(C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications.
