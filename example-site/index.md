@@ -3,6 +3,9 @@ An overview of ROSE, how to download and use, basic templates and examples, and 
 
 ## Table of contents
 
+* [Global Table of Contents](#what_is_rose)
+  * [Getting Started](#what_is_rose)
+  * [Tutorials](#what_is_rose)
 * [What is ROSE](#what_is_rose)
 * [Download](#download)
   * [Official release](#official_release)
@@ -69,11 +72,6 @@ ROSE uses continuous integration and has been officially tested on the following
  Operating System        |   Tested Versions |
 -------------------------|--------------------
  Redhat Enterprise Linux | `5.11`  `6.7` `7.1`
-
-ROSE is known to work on the following platforms, although they are not officially supported yet:
-
-* CentOS >= 5.5
-* Ubuntu 12.04, 14.10
 
 ### Dependencies <a name="dependencies"></a>
 Currently, ROSE requires the following software:
@@ -218,8 +216,12 @@ clean:
 
 ## Examples <a name="examples"></a>
 
+TODO: Link to ROSE Tutorials.
+
 ## Documentation <a name="documentation"></a>
 
-## FAQ <a name="faq"></a>
+## Getting Help <a name="help"></a>
+
+## Frequently Asked Questions (FAQs) <a name="faq"></a>
 
 ### How can I configure ROSE to use a different backend compiler?
